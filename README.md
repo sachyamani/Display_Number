@@ -1,2 +1,3 @@
 # Display_Number
-Display some user inout integer in words
+Command line application to display some user input integer in words.
+Requirements are under the requirement.txt file (pip install -r requirements.txt)
